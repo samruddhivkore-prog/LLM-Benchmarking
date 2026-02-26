@@ -1,0 +1,388 @@
+problem_id,answer,label,level
+Problem_1,16,Algebra,high school competition
+Problem_2,3906,Algebra,high school competition
+Problem_3,66,Algebra,high school competition
+Problem_4,101,Algebra,high school competition
+Problem_5,235,Algebra,high school competition
+Problem_6,16,Algebra,high school competition
+Problem_7,100!,Algebra,high school competition
+Problem_8,D,Algebra,high school competition
+Problem_9,1,Algebra,high school competition
+Problem_10,4,Algebra,high school competition
+Problem_11,13,Algebra,high school competition
+Problem_12,7,Algebra,high school competition
+Problem_13,264,Algebra,high school competition
+Problem_14,2,Algebra,high school competition
+Problem_15,"1,9",Algebra,high school competition
+Problem_16,35964,Algebra,high school competition
+Problem_17,192,Algebra,high school competition
+Problem_18,81,Algebra,high school competition
+Problem_19,34,Algebra,high school competition
+Problem_20,1989,Algebra,high school competition
+Problem_21,"251,7",Algebra,high school competition
+Problem_22,14,Algebra,high school competition
+Problem_23,840,Algebra,high school competition
+Problem_24,17160,Algebra,high school competition
+Problem_25,127,Algebra,high school competition
+Problem_26,C,Algebra,high school competition
+Problem_27,31,Algebra,high school competition
+Problem_28,10,Algebra,high school competition
+Problem_29,6,Algebra,high school competition
+Problem_30,52000,Algebra,high school competition
+Problem_31,1111,Algebra,high school competition
+Problem_32,76,Algebra,high school competition
+Problem_33,7,Algebra,high school competition
+Problem_34,1991,Algebra,high school competition
+Problem_35,193,Algebra,high school competition
+Problem_36,5,Algebra,high school competition
+Problem_37,5,Algebra,high school competition
+Problem_38,30,Algebra,high school competition
+Problem_39,160,Algebra,high school competition
+Problem_40,45,Algebra,high school competition
+Problem_41,97104,Algebra,high school competition
+Problem_42,90,Algebra,high school competition
+Problem_43,154,Algebra,high school competition
+Problem_44,3,Algebra,high school competition
+Problem_45,2672002,NumberTheory,high school competition
+Problem_46,8,NumberTheory,high school competition
+Problem_47,4,NumberTheory,high school competition
+Problem_48,48,Algebra,high school competition
+Problem_49,0,Algebra,high school competition
+Problem_50,31,Algebra,high school competition
+Problem_51,1975,NumberTheory,high school competition
+Problem_52,0,Algebra,high school competition
+Problem_53,2,Algebra,high school competition
+Problem_54,\frac{8}{3},Algebra,high school competition
+Problem_55,35,Algebra,high school competition
+Problem_56,14996,Algebra,high school competition
+Problem_57,3333,Algebra,high school competition
+Problem_58,2,Algebra,high school competition
+Problem_59,\frac{\sqrt{2}}{2},Algebra,high school competition
+Problem_60,3,Algebra,high school competition
+Problem_61,1017073,Algebra,high school competition
+Problem_62,4862,Algebra,high school competition
+Problem_63,0,Algebra,high school competition
+Problem_64,6,Algebra,high school competition
+Problem_65,8,Algebra,high school competition
+Problem_66,"(0,\frac{1}{2}) \cup (2,+\infty)",Algebra,high school competition
+Problem_67,\sqrt{19},Algebra,high school competition
+Problem_68,580,Algebra,high school competition
+Problem_69,\frac{\sqrt{6}-\sqrt{2}}{2},Algebra,high school competition
+Problem_70,12,Algebra,high school competition
+Problem_71,20,Algebra,high school competition
+Problem_72,401,Algebra,high school competition
+Problem_73,2021,Algebra,high school competition
+Problem_74,1,Algebra,high school competition
+Problem_75,"\frac{\sqrt{2}}{2},-\frac{\sqrt{2}}{2}",Algebra,high school competition
+Problem_76,13,Algebra,high school competition
+Problem_77,194,Algebra,high school competition
+Problem_78,7,Algebra,high school competition
+Problem_79,3,Algebra,high school competition
+Problem_80,\frac{869}{27},Algebra,high school competition
+Problem_81,5+2 \sqrt{3},Algebra,high school competition
+Problem_82,-1,Algebra,high school competition
+Problem_83,12,Algebra,high school competition
+Problem_84,144,Algebra,high school competition
+Problem_85,1,Algebra,high school competition
+Problem_86,\frac{4}{3},Algebra,high school competition
+Problem_87,\frac{7}{10}\pi,Geometry,high school competition
+Problem_88,\frac{\sqrt{2}}{3},Geometry,high school competition
+Problem_89,-\frac{1}{4},Geometry,high school competition
+Problem_90,120,Geometry,high school competition
+Problem_91,4 divide by sqrt{2},Geometry,high school competition
+Problem_92,\frac{4}{29} \sqrt{29},Geometry,high school competition
+Problem_93,2 \sqrt{7},Geometry,high school competition
+Problem_94,24,Geometry,high school competition
+Problem_95,10,Geometry,high school competition
+Problem_96,1600,Geometry,high school competition
+Problem_97,\frac{\sqrt{15}}{3},Geometry,high school competition
+Problem_98,20,Geometry,high school competition
+Problem_99,90,Geometry,high school competition
+Problem_100,\sqrt{15},Geometry,high school competition
+Problem_101,\frac{8}{17},Geometry,high school competition
+Problem_102,3,Geometry,high school competition
+Problem_103,\frac{1}{2},Geometry,high school competition
+Problem_104,\frac{\sqrt{30}}{12},Geometry,high school competition
+Problem_105,\sqrt{3},Geometry,high school competition
+Problem_106,\sqrt{23},Geometry,high school competition
+Problem_107,13,Geometry,high school competition
+Problem_108,32,Geometry,high school competition
+Problem_109,2,Geometry,high school competition
+Problem_110,\frac{\sqrt{6}}{3},Geometry,high school competition
+Problem_111,1,Geometry,high school competition
+Problem_112,\frac{3}{10},Combinatorics,high school competition
+Problem_113,4045,Combinatorics,high school competition
+Problem_114,\frac{13}{288},Combinatorics,high school competition
+Problem_115,90,Combinatorics,high school competition
+Problem_116,321,Combinatorics,high school competition
+Problem_117,\frac{3}{17},Combinatorics,high school competition
+Problem_118,101,Combinatorics,high school competition
+Problem_119,1,Combinatorics,high school competition
+Problem_120,51,Combinatorics,high school competition
+Problem_121,112,Combinatorics,high school competition
+Problem_122,511566,Combinatorics,high school competition
+Problem_123,39,Combinatorics,high school competition
+Problem_124,A,Combinatorics,high school competition
+Problem_125,32,Combinatorics,high school competition
+Problem_126,1010,Combinatorics,high school competition
+Problem_127,\frac{40}{243},Combinatorics,high school competition
+Problem_128,96,Combinatorics,high school competition
+Problem_129,2,Combinatorics,high school competition
+Problem_130,5832,Combinatorics,high school competition
+Problem_131,A,Combinatorics,high school competition
+Problem_132,B,Combinatorics,high school competition
+Problem_133,22,Combinatorics,high school competition
+Problem_134,512,Combinatorics,high school competition
+Problem_135,2024,Combinatorics,high school competition
+Problem_136,2^{22},Combinatorics,high school competition
+Problem_137,2023,Combinatorics,high school competition
+Problem_138,27568,Combinatorics,high school competition
+Problem_139,869,Combinatorics,high school competition
+Problem_140,342,Combinatorics,high school competition
+Problem_141,91,Combinatorics,high school competition
+Problem_142,980,Combinatorics,high school competition
+Problem_143,5880,Combinatorics,high school competition
+Problem_144,61,Combinatorics,high school competition
+Problem_145,26,Combinatorics,high school competition
+Problem_146,9,Combinatorics,high school competition
+Problem_147,3125,Combinatorics,high school competition
+Problem_148,116,Combinatorics,high school competition
+Problem_149,D,Algebra,high school math
+Problem_150,B,Algebra,high school math
+Problem_151,C,Geometry,high school math
+Problem_152,A,Algebra,high school math
+Problem_153,C,Algebra,high school math
+Problem_154,A,Algebra,high school math
+Problem_155,B,Algebra,high school math
+Problem_156,C,Algebra,high school math
+Problem_157,B,Algebra,high school math
+Problem_158,C,Algebra,high school math
+Problem_159,C,Algebra,high school math
+Problem_160,D,Algebra,high school math
+Problem_161,A,Algebra,high school math
+Problem_162,A,Algebra,high school math
+Problem_163,C,Algebra,high school math
+Problem_164,A,Algebra,high school math
+Problem_165,B,Algebra,high school math
+Problem_166,D,Algebra,high school math
+Problem_167,A,Algebra,high school math
+Problem_168,D,Algebra,high school math
+Problem_169,C,Algebra,high school math
+Problem_170,D,Algebra,high school math
+Problem_171,A,Algebra,high school math
+Problem_172,A,Algebra,high school math
+Problem_173,A,Algebra,high school math
+Problem_174,D,Algebra,high school math
+Problem_175,B,Algebra,high school math
+Problem_176,A,Algebra,high school math
+Problem_177,B,Algebra,high school math
+Problem_178,C,Algebra,high school math
+Problem_179,y=-5x-3,Algebra,high school math
+Problem_180,4ft,Algebra,high school math
+Problem_181,-3,Algebra,high school math
+Problem_182,x=-1,Algebra,high school math
+Problem_183,5 Robins,Algebra,high school math
+Problem_184,D,Algebra,high school math
+Problem_185,C,Algebra,high school math
+Problem_186,B,Algebra,high school math
+Problem_187,B,Algebra,high school math
+Problem_188,B,Algebra,high school math
+Problem_189,A,Algebra,high school math
+Problem_190,B,Algebra,high school math
+Problem_191,D,Algebra,high school math
+Problem_192,D,Algebra,high school math
+Problem_193,B,Algebra,high school math
+Problem_194,B,Algebra,high school math
+Problem_195,C,Algebra,high school math
+Problem_196,A,Algebra,high school math
+Problem_197,A,Algebra,high school math
+Problem_198,B,Algebra,high school math
+Problem_199,D,Algebra,high school math
+Problem_200,"B, F",Algebra,high school math
+Problem_201,C,Algebra,high school math
+Problem_202,A,Algebra,high school math
+Problem_203,D,Algebra,high school math
+Problem_204,D,Algebra,high school math
+Problem_205,D,Algebra,high school math
+Problem_206,B,Algebra,high school math
+Problem_207,A,Algebra,high school math
+Problem_208,C,Algebra,high school math
+Problem_209,A,Algebra,high school math
+Problem_210,B,Algebra,high school math
+Problem_211,C,Algebra,high school math
+Problem_212,"a. 3, b. 4",Algebra,high school math
+Problem_213,9681.72,Algebra,high school math
+Problem_214,13.45 years,Algebra,high school math
+Problem_215,-4,Algebra,high school math
+Problem_216,C,PreCalculus,high school math
+Problem_217,D,PreCalculus,high school math
+Problem_218,B,PreCalculus,high school math
+Problem_219,B,Geometry,high school math
+Problem_220,D,Geometry,high school math
+Problem_221,B,Geometry,high school math
+Problem_222,A,Geometry,high school math
+Problem_223,A,Geometry,high school math
+Problem_224,C,Geometry,high school math
+Problem_225,A,Geometry,high school math
+Problem_226,C,Geometry,high school math
+Problem_227,D,Geometry,high school math
+Problem_228,B,Geometry,high school math
+Problem_229,C,Geometry,high school math
+Problem_230,B,Geometry,high school math
+Problem_231,C,Geometry,high school math
+Problem_232,C,PreCalculus,high school math
+Problem_233,B,Algebra,high school math
+Problem_234,B,PreCalculus,high school math
+Problem_235,C,PreCalculus,high school math
+Problem_236,D,PreCalculus,high school math
+Problem_237,C,Trigonometry,high school math
+Problem_238,C,PreCalculus,high school math
+Problem_239,C,PreCalculus,high school math
+Problem_240,C,PreCalculus,high school math
+Problem_241,C,PreCalculus,high school math
+Problem_242,C,PreCalculus,high school math
+Problem_243,A,PreCalculus,high school math
+Problem_244,C,Calculus,high school math
+Problem_245,B,Algebra,high school math
+Problem_246,B,PreCalculus,high school math
+Problem_247,D,PreCalculus,high school math
+Problem_248,B,PreCalculus,high school math
+Problem_249,A,PreCalculus,high school math
+Problem_250,B,PreCalculus,high school math
+Problem_251,B,PreCalculus,high school math
+Problem_252,A,PreCalculus,high school math
+Problem_253,C,PreCalculus,high school math
+Problem_254,D,PreCalculus,high school math
+Problem_255,B,PreCalculus,high school math
+Problem_256,D,Algebra,high school math
+Problem_257,C,Series,high school math
+Problem_258,B,PreCalculus,high school math
+Problem_259,C,PreCalculus,high school math
+Problem_260,D,PreCalculus,high school math
+Problem_261,A,Trigonometry,high school math
+Problem_262,2,PreCalculus,high school math
+Problem_263,2 ln x+3 ln left(y^{2}-z\right)-\frac{1}{2} ln (y+1),PreCalculus,high school math
+Problem_264,\log \left(5 \times (x-7)^{2} /(x+4)^{3}\right),PreCalculus,high school math
+Problem_265,04-Sep,PreCalculus,high school math
+Problem_266,2 x^{2}+x-1,PreCalculus,high school math
+Problem_267,5242.88,PreCalculus,high school math
+Problem_268,C,Calculus,high school math
+Problem_269,C,Calculus,high school math
+Problem_270,A,PreCalculus,high school math
+Problem_271,B,Calculus,high school math
+Problem_272,E,PreCalculus,high school math
+Problem_273,B,PreCalculus,high school math
+Problem_274,C,PreCalculus,high school math
+Problem_275,A,PreCalculus,high school math
+Problem_276,E,Calculus,high school math
+Problem_277,B,PreCalculus,high school math
+Problem_278,D,PreCalculus,high school math
+Problem_279,C,PreCalculus,high school math
+Problem_280,A,PreCalculus,high school math
+Problem_281,C,PreCalculus,high school math
+Problem_282,B,PreCalculus,high school math
+Problem_283,C,PreCalculus,high school math
+Problem_284,C,PreCalculus,high school math
+Problem_285,E,PreCalculus,high school math
+Problem_286,E,PreCalculus,high school math
+Problem_287,y = ce^{-\frac{1}{x}}+1,Differential Equations,college math
+Problem_288,10,Linear Algebra and Abstract Algebra,college math
+Problem_289,21,Linear Algebra and Abstract Algebra,college math
+Problem_290,"[1,2,3]",Linear Algebra and Abstract Algebra,college math
+Problem_291,"[3, 1, 1; 1, 3, 1; 1, 1, 3]",Linear Algebra and Abstract Algebra,college math
+Problem_292,13.5,Linear Algebra and Abstract Algebra,college math
+Problem_293,"[3,3]",Linear Algebra and Abstract Algebra,college math
+Problem_294,"[3, -1, 1; -1, 5, -1; 1, -1, 3]",Linear Algebra and Abstract Algebra,college math
+Problem_295,2,Linear Algebra and Abstract Algebra,college math
+Problem_296,3,Linear Algebra and Abstract Algebra,college math
+Problem_297,"[2, -2, 1; 4, -4, 2; 6, -6, 3]",Linear Algebra and Abstract Algebra,college math
+Problem_298,1,Linear Algebra and Abstract Algebra,college math
+Problem_299,4,Linear Algebra and Abstract Algebra,college math
+Problem_300,-1,Linear Algebra and Abstract Algebra,college math
+Problem_301,"[1, -2, 5; 0, 1, -4; 0, 0, 1]",Linear Algebra and Abstract Algebra,college math
+Problem_302,"[1,2]",Linear Algebra and Abstract Algebra,college math
+Problem_303,"[4,5]",Linear Algebra and Abstract Algebra,college math
+Problem_304,-2,Linear Algebra and Abstract Algebra,college math
+Problem_305,"[9,0; 0, 9]",Linear Algebra and Abstract Algebra,college math
+Problem_306,"[-1,-2,4]",Linear Algebra and Abstract Algebra,college math
+Problem_307,4,Linear Algebra and Abstract Algebra,college math
+Problem_308,3,Linear Algebra and Abstract Algebra,college math
+Problem_309,1.62,Linear Algebra and Abstract Algebra,college math
+Problem_310,2,Linear Algebra and Abstract Algebra,college math
+Problem_311,x^4-10x^2+1,Linear Algebra and Abstract Algebra,college math
+Problem_312,x^2-8x+7,Linear Algebra and Abstract Algebra,college math
+Problem_313,1,Calculus and Analysis,college math
+Problem_314,-5,Calculus and Analysis,college math
+Problem_315,4,Calculus and Analysis,college math
+Problem_316,2,Calculus and Analysis,college math
+Problem_317,0,Calculus and Analysis,college math
+Problem_318,1,Calculus and Analysis,college math
+Problem_319,1.25,Calculus and Analysis,college math
+Problem_320,2,Calculus and Analysis,college math
+Problem_321,3^5,Calculus and Analysis,college math
+Problem_322,0,Calculus and Analysis,college math
+Problem_323,3.43,Calculus and Analysis,college math
+Problem_324,0.42,Calculus and Analysis,college math
+Problem_325,-frac{ e}{2},Calculus and Analysis,college math
+Problem_326,\ln\sqrt{3},Calculus and Analysis,college math
+Problem_327,frac{pi}{2},Calculus and Analysis,college math
+Problem_328,\alpha=1$ and $\beta=4,Calculus and Analysis,college math
+Problem_329,8,Calculus and Analysis,college math
+Problem_330, \frac{\pi}{8} + \frac{1}{4},Calculus and Analysis,college math
+Problem_331,\frac{\pi}{4},Calculus and Analysis,college math
+Problem_332,8+\pi,Calculus and Analysis,college math
+Problem_333,frac{pi}{2sqrt{2}},Calculus and Analysis,college math
+Problem_334,\frac{3}{2}-\frac12 e^{-1},Calculus and Analysis,college math
+Problem_335,2,Calculus and Analysis,college math
+Problem_336,1,Calculus and Analysis,college math
+Problem_337,2e,Differential Equations,college math
+Problem_338,y = e^{-x},Differential Equations,college math
+Problem_339,No,Differential Equations,college math
+Problem_340,No,Differential Equations,college math
+Problem_341,Yes,Differential Equations,college math
+Problem_342,No,Differential Equations,college math
+Problem_343,Yes,Differential Equations,college math
+Problem_344,0,Differential Equations,college math
+Problem_345,Yes,Differential Equations,college math
+Problem_346,No,Differential Equations,college math
+Problem_347,Yes,Differential Equations,college math
+Problem_348,0,Differential Equations,college math
+Problem_349,"[1,2]",Differential Equations,college math
+Problem_350,9979200,Probability,college math
+Problem_351,0.42,Probability,college math
+Problem_352,24192,Probability,college math
+Problem_353,5,Probability,college math
+Problem_354,0.24,Probability,college math
+Problem_355,0.59,Probability,college math
+Problem_356,0.11,Probability,college math
+Problem_357,12.08,Probability,college math
+Problem_358,0.47,Probability,college math
+Problem_359,1389960,Probability,college math
+Problem_360,0.37,Probability,college math
+Problem_361,0.7,Probability,college math
+Problem_362,0.93,Probability,college math
+Problem_363,0.01,Probability,college math
+Problem_364,1.69,Probability,college math
+Problem_365,0.25,Probability,college math
+Problem_366,0.62,Probability,college math
+Problem_367,-0.02,Probability,college math
+Problem_368,N2^{-N},Probability,college math
+Problem_369,0.61,Probability,college math
+Problem_370,0.8,Probability,college math
+Problem_371,"[4.8, 2.28] 	",Statistics,college math
+Problem_372,"No 	",Statistics,college math
+Problem_373,"1.5 	",Statistics,college math
+Problem_374,"Yes 	",Statistics,college math
+Problem_375,Yes,Statistics,college math
+Problem_376,"(106.44, 109.12)",Statistics,college math
+Problem_377,"(0.225, 0.275) 	",Statistics,college math
+Problem_378,"(-5.9, 3.9)",Statistics,college math
+Problem_379,"(38.90, 2792.41)",Statistics,college math
+Problem_380,"No 	",Statistics,college math
+Problem_381,No,Statistics,college math
+Problem_382,2\theta^2/n,Statistics,college math
+Problem_383,theta^2,Statistics,college math
+Problem_384,1,Statistics,college math
+Problem_385,No,Statistics,college math
+Problem_386,0,Statistics,college math
+Problem_387,Yes,Statistics,college math
